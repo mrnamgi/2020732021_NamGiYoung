@@ -11,3 +11,5 @@ test basic repository functions
 ### 를 연습하기 위해 만들어졌습니다.
 
 ### 해당 부분은 Collaborator Kim Ji Won_2020732020 에 의해 수정된 부분입니다.
+
+### 해당 부분은 Collaborator Kim Ji Won_2020732020 에 의해 Branch 01에서 추가된 부분입니다.
